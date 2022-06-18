@@ -1,0 +1,2 @@
+# sebuah-jurnal
+Sebuah Jurnal
